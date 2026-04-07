@@ -87,4 +87,4 @@ $RecurseSkipList = @(
 
 ## License
 
-MIT License
+[MIT License](https://github.com/ANONYMOUSEJR/Movie-List-Generator/tree/main?tab=MIT-1-ov-file#readme)
