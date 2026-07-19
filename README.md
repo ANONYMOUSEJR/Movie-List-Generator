@@ -1,4 +1,9 @@
-
+> [!WARNING]  
+> **DEPRECATION NOTICE: This repository is archived and no longer maintained.**  
+> A vastly superior, feature-rich version of this tool is now available at the new repository:  
+> **[MovieInfoBrowser](https://github.com/ANONYMOUSEJR/Movie-Info-Browser/)**  
+>  
+> The new version includes interactive console UI navigation, TMDB API integration (ratings, genres, runtimes), local metadata caching, watch queue management, direct video playback, multithreaded directory scans, and advanced settings. Please migrate to the new repository for all future use.
 
 # Movie List Generator
 
